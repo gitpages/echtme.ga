@@ -8,5 +8,6 @@ readthedocs.io
 ### Layouts
 | Name | BESCHREIBUNG |
 | ------ | ----------- |
+|  [spuidfunk](https://squidfunk.github.io/mkdocs-material/)  |  modern  |
 |  [docsify](https://docsify.js.org/#/)  | modern |
-|     | extension to be used for dest files. |
+
